@@ -1,0 +1,36 @@
+-----------------------------
+La copia para /home/lucho/hardware/dev será full.
+
+Iniciando FullBackup para /home/lucho/hardware/dev	 [29/11/21 16:27:34]
+
+tar: A: Directory is new
+tar: B: Directory is new
+tar: C: Directory is new
+A/
+B/
+C/
+A/A
+B/B
+C/C
+Verify A/
+tar: A: Directory is new
+Verify B/
+tar: B: Directory is new
+Verify C/
+tar: C: Directory is new
+Verify A/A
+Verify B/B
+Verify C/C
+
+INFO: Comprobando backup...
+
+
+Se han realizado 6 cambios - [29/11/21 16:27:34]
+
+/home/lucho/hardware/dev/../s3/full_dev_29nov21.tar.gz:	 OK
+
+La copia /home/lucho/hardware/dev/../s3/full_dev_29nov21.tar.gz ha finalizado correctamente - [29/11/21 16:27:34]
+
+Buscando backups de /home/lucho/hardware/dev anteriores a este último full...
+No se han encontrado backups antiguos de /home/lucho/hardware/dev para eliminar.
+
